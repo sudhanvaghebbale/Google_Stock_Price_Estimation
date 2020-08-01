@@ -4,6 +4,10 @@
   ```
   train = pd.read_csv('Google_Stock_Price_Train.csv')
   ```
+* To use the test dataset, use the following command:
+  ```
+  test = pd.read_csv('Google_Stock_Price_Test.csv')
+  ```
 * To run the notebook, you will need to install the following packages:
   ```
   pip install numpy
